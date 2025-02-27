@@ -14,3 +14,8 @@ cross validating the model and training it, testing using X_test data and calcul
 
 Dispaying the confusion matrix
 
+Used cross vadlidation to reduce overfitting and also to select best features
+
+Used the best features n_neighbors to again fit the model and obtain better prediction results
+
+
